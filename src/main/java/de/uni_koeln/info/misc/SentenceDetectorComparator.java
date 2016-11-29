@@ -23,7 +23,7 @@ import opennlp.tools.sentdetect.SentenceDetectorME;
 import opennlp.tools.sentdetect.SentenceModel;
 
 @Deprecated
-public class SentenceDetector {
+public class SentenceDetectorComparator {
 
 //	public static void main(String[] args) {
 //		try {
